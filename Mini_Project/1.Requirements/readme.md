@@ -35,5 +35,14 @@ Setup Configuration is difficult
 
 More Technical Security Threats
 ## THREAT
-Due to Short circuits,issues may occur at any time 
+Due to Short circuits,issues may occur at any time.
+## HIGH LEVEL REQUIREMENTS
+Atmega 328p microcontroller is needed.
 
+DC1307 RTC Chip is used and NEE555 is used.
+## LOW LEVEL REQUIREMENTS
+At the most basic level, home automation systems are made up of three elements: a smart device, a hub, and a connected application.
+
+LED is used in this model for indicating purposes at various times
+
+128*64 LCD is used and it is controlled by KS0108 Controller
