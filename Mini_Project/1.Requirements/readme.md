@@ -13,5 +13,27 @@ A home automation system is a technological solution that enables automating the
 With smart home devices, you can remotely monitor your home appliances and ensure that all devices are safely switched off. One of the biggest advantages of home automation is that it keeps your abode safe, and prevents accidental fires, water leaks, gas leaks, and other disasters.
 ## WHEN
 In 1975, a Scottish company named Pico Electronics launched the first home automation technology – the X10. Still in use today, it enabled people to control various items in their households.
+## HOW
+If you wish there was more time in the day, home automation can help. Once it's set up, simple voice commands or mobile app finger taps keep the ball rolling.
 ## SWOT ANALYSIS
 ## STRENGTH
+Managing all of your home devices from one place and the convenience factor here is enormous.
+
+Flexibility for new devices and appliances.
+
+Maximizing home security.
+
+Remote control of home functions.
+
+Increased energy efficiency.
+## WEAKNESS
+It will be high cost
+
+It needs Internet Reliance
+
+Setup Configuration is difficult
+
+More Technical Security Threats
+## THREAT
+Due to Short circuits,issues may occur at any time 
+
